@@ -1,0 +1,41 @@
+{
+  "kuro": {
+    "name": "Kuro",
+    "folder": "assets/kuro"
+  },
+
+  "usako": {
+    "name": "Usako",
+    "folder": "assets/usako"
+  },
+
+  "taro": {
+    "name": "Taro",
+    "folder": "assets/taro"
+  },
+
+  "marple": {
+    "name": "Marple",
+    "folder": "assets/marple"
+  },
+
+  "tama": {
+    "name": "Tama",
+    "folder": "assets/tama" 
+  },
+
+  "john": {
+    "name": "John",
+    "folder": "assets/john"
+  },
+
+  "mary": {
+    "name": "Mary",
+    "folder": "assets/mary"
+  },
+
+  "shiro": {
+    "name": "Shiro",
+    "folder": "assets/shiro"
+  }
+}

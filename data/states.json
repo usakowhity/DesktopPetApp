@@ -1,0 +1,74 @@
+{
+  "n1": {
+    "name": "通常",
+    "description": "ペットが通常状態で待機している状態。",
+    "category": "neutral"
+  },
+  "n2": {
+    "name": "お座り",
+    "description": "その場でお座りする状態。",
+    "category": "neutral"
+  },
+  "n3": {
+    "name": "寝んね",
+    "description": "寝転んで休んだり眠ったりする状態。",
+    "category": "neutral"
+  },
+
+  "p1": {
+    "name": "遊んで",
+    "description": "遊び・お散歩など、アクティブな行動をする状態。",
+    "category": "positive"
+  },
+  "p2": {
+    "name": "喜び",
+    "description": "褒められて喜ぶ状態。",
+    "category": "positive"
+  },
+
+  "p3": {
+    "name": "伏せ",
+    "description": "伏せの姿勢になる状態。",
+    "category": "positive"
+  },
+  "p4": {
+    "name": "お手",
+    "description": "片手を上げてお手をする状態。",
+    "category": "positive"
+  },
+  "p5": {
+    "name": "ごはん",
+    "description": "ごはんを食べる・食べたい状態。",
+    "category": "positive"
+  },
+  "p6": {
+    "name": "お水",
+    "description": "水を飲む・飲みたい状態。",
+    "category": "positive"
+  },
+  "p7": {
+    "name": "トイレ",
+    "description": "トイレにお座りした状態。",
+    "category": "positive"
+  },
+  "p8": {
+    "name": "持ってこい",
+    "description": "ボールなどを持ってくる状態。",
+    "category": "positive"
+  },
+  "p9": {
+    "name": "ハウス",
+    "description": "ハウス（おうち）に入る状態。",
+    "category": "positive"
+  },
+  "p10": {
+    "name": "ちん",
+    "description": "ちん・立っちなどの立ち上がりポーズ。",
+    "category": "positive"
+  },
+  "p11": {
+    "name": "おふろ",
+    "description": "きれいきれい・入浴・毛づくろい等の状態。",
+    "category": "positive"
+  }
+}
