@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="assets/readme/pets/hero.png" width="450" alt="Desktop Pet App Hero">
-</p>
-
-📘 英語版はこちら → [README_en.md](README_en.md)
 
 # 🐾 デスクトップペットアプリ – デモ版  
 **PC があなたの笑顔や声に反応する “デスクトップペットアプリ”**  
@@ -100,6 +96,13 @@ run_pet.bat
 
 ---
 
+
+# 🎉 Welcome 画面
+
+![welcome](assets/readme/pets/welcome.png)
+
+---
+
 # 🐾 状態一覧（n1〜p11）
 
 | コード | 名前 | 説明 |
@@ -184,3 +187,4 @@ DesktopPetApp_github/
 
 自分のペットを登録して楽しみたい場合は、  
 **PetApp2 – portable / shelly / mimi / peter（User Version）** をご利用ください。
+
