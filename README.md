@@ -1,4 +1,3 @@
-```markdown
 <p align="center">
   <img src="assets/readme/pets/hero.png" width="700" alt="Desktop Pet App Hero">
 </p>
