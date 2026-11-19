@@ -197,5 +197,4 @@ If you want to register your own pet and enjoy a personalized experience,
 please use:
 
 **PetApp2 – portable / shelly / mimi / peter (User Version)**.
-```
 
